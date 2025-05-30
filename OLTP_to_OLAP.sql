@@ -4,7 +4,6 @@
   Creador : Ing. Jorge Luis Iraheta Alvarenga
   Fecha   : 30/05/2025 12:19 am 
   Ramdon dato: estaba escuchado billete grande  JAJAJJA
-
 ===============================================================*/
 
 -- ESQUEMA OLTP
